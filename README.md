@@ -1,2 +1,4 @@
 # multi-step-pelvic-fractures
-Under review. The code, weights and data will be published upon acceptance.
+Under construction.
+
+For dataset and model weights go to the "Releases" page.
